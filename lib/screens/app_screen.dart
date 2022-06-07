@@ -3,6 +3,7 @@ import 'package:frontend/screens/calendar_screen.dart';
 import 'package:frontend/screens/profile_screen.dart';
 import 'package:frontend/screens/search_screen.dart';
 import 'package:frontend/screens/login_screen.dart';
+import 'package:frontend/screens/calendar_screen.dart';
 import 'package:frontend/screens/chat_screen.dart';
 import 'package:frontend/screens/home_screen.dart';
 import 'package:localstorage/localstorage.dart';
